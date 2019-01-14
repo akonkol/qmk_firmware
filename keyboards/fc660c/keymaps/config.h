@@ -22,5 +22,3 @@
 // place overrides here
 
 #endif
-
-#define TAPPING_TERM 200
